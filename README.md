@@ -2,7 +2,7 @@
 
 This task utilizes both frontend and backend technologies: Angular and ExpressJs;
 
-You can view the project here: https://wmaijowkz.github.stackblitz.io
+You can view the project here: https://stackblitz.com/github/temurumarov64/techTask
 
 In order to login, please use: 
 login: temur@gmail.com
