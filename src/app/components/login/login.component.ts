@@ -1,8 +1,8 @@
 import { FormBuilder, FormGroup } from '@angular/forms';
 import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-import { AuthService } from 'src/app/services/auth.service';
-import { CountService } from 'src/app/services/count.service';
+import { AuthService } from '../../services/auth.service';
+import { CountService } from '../../services/count.service';
 
 @Component({
   selector: 'app-login',
