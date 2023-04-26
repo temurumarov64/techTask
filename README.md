@@ -1,5 +1,23 @@
 # Techtask
 
+This task utilizes both frontend and backend technologies: Angular and ExpressJs;
+
+You can view the project here: https://wmaijowkz.github.stackblitz.io
+
+In order to login, please use: 
+login: temur@gmail.com
+password: 123456
+
+All other names show an error in the console.
+
+The counter in the dashboard receives the calculations from the server; and because the server is free, it is not as quick as desired, but okay for now.
+
+My backend is https://github.com/temurumarov64/node-express-vercel; 
+It is deployed on a free vercel server: https://node-express-vercel-sable.vercel.app/
+My front sends requests to that server, and 3 APIs are sending responses; JWT tokens are needed with each request to obtain the responses;
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.10.
 
 ## Development server
